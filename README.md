@@ -15,7 +15,7 @@ The goal of this project is to analyze historical Google stock prices and develo
 
 📊 ***1. Exploratory Data Analysis (EDA)*** 
 
-The link to dataset.
+The [link](https://www.kaggle.com/datasets/henryshan/google-stock-price) to dataset.
 
 The dataset consists of daily historical stock market data, containing the following fields:
 **Date** – Trading day timestamp
